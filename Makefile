@@ -1,5 +1,5 @@
 build:
-	gcc main.c -o zoelang
+	gcc *.c -o zoelang
 
 run: build
 	./zoelang
